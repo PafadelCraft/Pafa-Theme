@@ -21,8 +21,8 @@
 
 </div>
 
-## Installing
-Download the theme file and move it into your [BetterDiscord](https://betterdiscord.net) themes folder:
+## Installation
+Télécharger le Pafa'Theme et déplacer dans le dossier [BetterDiscord](https://betterdiscord.net)
 
 >[ClearVision_v6.theme.css](https://clearvision.gitlab.io/download/v6/latest)
 
