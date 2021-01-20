@@ -16,8 +16,6 @@
 [![Releases][release-badge]][release-link]
 [![License][license-badge]][license-link]
 [![Discord Server][discord-badge]][discord-link]
-[![Issues][issues-badge]][issues-link]
-[![Pull Requests][prs-badge]][prs-link]
 
 ![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
 
