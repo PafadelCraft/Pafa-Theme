@@ -17,22 +17,20 @@
 [![License][license-badge]][license-link]
 [![Discord Server][discord-badge]][discord-link]
 
-![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
+![Pafa-Theme V1](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
 
 </div>
 
 ## Installation
 Télécharger le Pafa-Theme et déplacer le dans le dossier [BetterDiscord](https://betterdiscord.net) de votre PC
 
->[ClearVision_v6.theme.css](https://clearvision.gitlab.io/download/v6/latest)
+>[Pafa-Theme.theme.css](https://clearvision.gitlab.io/download/v6/latest)
 
-## Building from source
-In order build the theme from source you will need [Sass](https://sass-lang.com) & [PostCSS Autoprefixer](https://github.com/postcss/autoprefixer).  
-With [npm](https://npmjs.org/get-npm) installed you can simply run `npm install` to install all missing dependencies and compile the theme into the `/public` folder via `npm run build`.
+## Aide a la création
+Pour développer Pafa-Theme nous avons eu besoin de [Sass](https://sass-lang.com) et [PostCSS Autoprefixer](https://github.com/postcss/autoprefixer).  
 
-**Dependencies:**
+**Crédits**
 - [node-sass](https://github.com/sass/node-sass)
 - [PostCSS Autoprefixer](https://github.com/postcss/autoprefixer)
 - [PostCSS CLI](https://github.com/postcss/postcss-cli)
-- *[DiscordSelectors](https://github.com/zerthox/discordselectors) (included in the `/lib` folder)*
-- *[rimraf](https://github.com/isaacs/rimraf) (for cleanup)*
+- [DiscordSelectors](https://github.com/zerthox/discordselectors)
