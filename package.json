@@ -1,0 +1,26 @@
+{
+  "name": "clearvision",
+  "version": "6.0.0",
+  "description": "Theme Discord officiel de PafadelCraft",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf {test,public}",
+    "test": "node-sass ./ --output=test --recursive=false --output-style=expanded",
+    "build": "npm run build.sass && npm run build.prefix",
+    "build.sass": "node-sass ./ --output=public --recursive=false --output-style=compressed",
+    "build.prefix": "postcss public/*.css --dir=public --use=autoprefixer  -b=\"> 5%\" --no-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClearVision/v6.git"
+  },
+  "author": "PafadelCraft",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/ClearVision/v6#readme",  "https://github.com/Pafa-Theme/"
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "node-sass": "^4.14.1",
+    "postcss-cli": "^7.1.1",
+    "rimraf": "^3.0.2"
+  }
+}
