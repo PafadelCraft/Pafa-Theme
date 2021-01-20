@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# ClearVision v6
+# Pafa-Theme [V1]
 
 [![Releases][release-badge]][release-link]
 [![License][license-badge]][license-link]
@@ -38,18 +38,3 @@ With [npm](https://npmjs.org/get-npm) installed you can simply run `npm install`
 - [PostCSS CLI](https://github.com/postcss/postcss-cli)
 - *[DiscordSelectors](https://github.com/zerthox/discordselectors) (included in the `/lib` folder)*
 - *[rimraf](https://github.com/isaacs/rimraf) (for cleanup)*
-
-## Contributing
-In order to contribute you need to be able to compile [Sass](https://sass-lang.com).
-
-If you use [Node Sass](https://github.com/sass/node-sass) via CLI, you can run:
-```
-node-sass main.scss public/main.css --watch
-```
-
-If you use [Dart Sass](https://github.com/sass/dart-sass) via CLI, you can run:
-```
-sass main.scss:public/main.css --watch
-```
-
-This will compile the theme into the `/public` folder and watch changes.
