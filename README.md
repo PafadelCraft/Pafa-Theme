@@ -22,7 +22,7 @@
 </div>
 
 ## Installation
-Download the theme file and move it into your [BetterDiscord](https://betterdiscord.net) themes folder:
+Télécharger le Pafa-Theme et déplacer le dans le dossier [BetterDiscord](https://betterdiscord.net) de votre PC
 
 >[ClearVision_v6.theme.css](https://clearvision.gitlab.io/download/v6/latest)
 
